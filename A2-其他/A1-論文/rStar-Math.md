@@ -8,6 +8,8 @@ with Self-Evolved Deep Thinking](https://arxiv.org/pdf/2501.04519v1)
 
 ## 使用 NotebookLM 協助閱讀
 
+* https://notebooklm.google.com/notebook/bb0bbe11-3a5d-4bbb-b84d-e43b47800e4c
+
 ccc: 可以舉個例說明此方法嗎，給個數學題與對應的MCTS
 
 以下以一個數學問題為例，說明 rStar-Math 如何利用 MCTS 和 Q 值來解決問題：
